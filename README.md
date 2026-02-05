@@ -2,6 +2,9 @@
  
 AI-powered legal analysis for Indian SMEs - Analyze contracts in seconds, identify risks, and get actionable insights. 
  
+## 🚀 Live Demo
+**Try it now:** https://contractanalyzer-s97jllxnaqujcxg3gvkvfw.streamlit.app/
+
 ## Features 
  
 - Risk Scoring: Automated 0-100 risk assessment 
